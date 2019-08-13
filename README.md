@@ -2,7 +2,7 @@
 Research Materials for Video Reflection Separation
 
 ### Video Reflection Removal 
-- *The Visual Centrifuge: Model-Free Layered Video Representations -CVPR2018* \
+- *The Visual Centrifuge: Model-Free Layered Video Representations - CVPR2018* \
   [[paper]](https://arxiv.org/pdf/1812.01461.pdf)
 
 - *Video Reflection Removal Through Spatio-Temporal Optimization - ICCV2017* \
@@ -14,11 +14,11 @@ Research Materials for Video Reflection Separation
   [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Single_Image_Reflection_Removal_Exploiting_Misaligned_Training_Data_and_Network_CVPR_2019_paper.pdf)
   [[code-ERRNet]](https://github.com/Vandermode/ERRNet.git) 
   
-- *Single Image Reflection Removal with Physically-based Rendering - 2019 *\ 
+- *Single Image Reflection Removal with Physically-based Rendering - 2019* \ 
   [[paper]](https://arxiv.org/pdf/1904.11934.pdf)
   
 - *CoRRN: Cooperative Reflection Removal Network - TPAMI2019* \
-  [[paper]] 
+  [paper] 
   [[code-CoRRN]](https://github.com/wanrenjie/CoRRN.git)  
  
 - *Face Image Reflection Removal - 2019* \
@@ -30,7 +30,7 @@ Research Materials for Video Reflection Separation
 
 - *CRRN: Multi-Scale Guided Concurrent Reflection Removal Network - CVPR2018* \
   [[paper]](https://arxiv.org/pdf/1805.11802.pdf) 
-  [[code-CRRN]]
+  [code-CRRN]
 
 - *CNN based Learning using Reflection and Retinex Models for Intrinsic ImageDecomposition - CVPR2018* \
   [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baslamisli_CNN_Based_Learning_CVPR_2018_paper.pdf)
