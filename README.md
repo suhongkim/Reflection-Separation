@@ -14,7 +14,7 @@ Research Materials for Video Reflection Separation
   [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wei_Single_Image_Reflection_Removal_Exploiting_Misaligned_Training_Data_and_Network_CVPR_2019_paper.pdf)
   [[code-ERRNet]](https://github.com/Vandermode/ERRNet.git) 
   
-- *Single Image Reflection Removal with Physically-based Rendering - 2019* \ 
+- *Single Image Reflection Removal with Physically-based Rendering - 2019* \
   [[paper]](https://arxiv.org/pdf/1904.11934.pdf)
   
 - *CoRRN: Cooperative Reflection Removal Network - TPAMI2019* \
