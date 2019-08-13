@@ -75,6 +75,24 @@ Research Materials for Video Reflection Separation
   
   
 ### Deep Motion Segmentation 
-- *
+- *Video Object Segmentation and Tracking: A Survey - CVPR2019* \
+  [[paper]](https://arxiv.org/pdf/1904.09172.pdf)
   
+- *Learning Unsupervised Video Object Segmentation through Visual Attention - CVPR2019* \
+  [[paper]](http://www.dabi.temple.edu/~hbling/publication/UVOS-cvpr19.pdf)
+  [[code]](https://github.com/wenguanwang/AGS.git)
+
+- *Fast video object segmentation with Spatio-Temporal GANs - CVPR2019* \
+  [[paper]](https://arxiv.org/pdf/1903.12161.pdf)
+
+- *The 2019 DAVIS Challenge on VOS:Unsupervised Multi-Object Segmentation* \
+  [[paper]](https://arxiv.org/pdf/1905.00737.pdf)
+
+- *GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose - CVPR2018* \
+  [[paper]](https://arxiv.org/pdf/1803.02276.pdf)
+  [[code-GeoNet]](https://github.com/yzcjtr/GeoNet.git)
+  
+- check more object segmentation paper list in [this link](https://github.com/du0915/Video-Object-Segmentation-Paper-List)
+
+
   
