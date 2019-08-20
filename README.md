@@ -20,7 +20,7 @@ Research Materials for Video Reflection Separation
 - *Video Reflection Removal Through Spatio-Temporal Optimization - ICCV2017* \
   [[paper]](http://people.csail.mit.edu/changil/assets/video-reflection-removal-through-spatio-temporal-optimization-iccv-2017-nandoriya-et-al.pdf)
   
->>[back to table](#table)
+[back to table](#table)
 
 
 <a name="deep"></a>
@@ -65,7 +65,7 @@ Research Materials for Video Reflection Separation
   [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7839189&tag=1)
   [[code-DnCNN]](https://github.com/cszn/DnCNN)
 
->>[back to table](#table)
+[back to table](#table)
 
 <a name="comp"></a>
 ### Computational Reflection Removal
@@ -89,7 +89,7 @@ Research Materials for Video Reflection Separation
 - *Exploiting Reflection Change for Automatic Reflection Removal - ICCV2013* \
   [[paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Li_Exploiting_Reflection_Change_2013_ICCV_paper.pdf)
   
->>[back to table](#table)
+[back to table](#table)
   
 <a name="vost"></a>  
 ### Deep Video Object Segmentation and Tracking (VOST) 
@@ -120,7 +120,7 @@ Research Materials for Video Reflection Separation
 [link - ArcherFMY](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)\
 [link - PWC](https://github.com/zziz/pwc.git)
 
->>[back to table](#table)
+[back to table](#table)
 
 
 <a name="opt"></a>
@@ -149,7 +149,7 @@ Research Materials for Video Reflection Separation
   [[paper]](https://arxiv.org/pdf/1612.07217.pdf)
   [[code-MPNet]](http://thoth.inrialpes.fr/research/mpnet/)
 
->>[back to table](#table)
+[back to table](#table)
 
 
 <a name="traj"></a>
@@ -178,7 +178,7 @@ Research Materials for Video Reflection Separation
 - *Motion Trajectory Segmentation via Minimum Cost Multicuts - ICCV2015* \
   [[paper]](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b/motionSeg.pdf)
   
->>[back to table](#table)
+[back to table](#table)
   
 <a name="pred"></a>
 ### Video Prediction 
@@ -186,4 +186,4 @@ Research Materials for Video Reflection Separation
   [[paper]](https://arxiv.org/pdf/1511.05440v6.pdf)
   [[code]](https://paperswithcode.com/paper/deep-multi-scale-video-prediction-beyond-mean)
   
->>[back to table](#table)
+[back to table](#table)
