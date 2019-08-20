@@ -2,7 +2,7 @@
 Research Materials for Video Reflection Separation
 
 <a name="table"><\a>
-#### Table
+### Table
 1. [ Video Reflection Removal ](#video)
 2. [ Deep Image Reflection Removal ](#deep)
 3. [ Computational Image Reflection Removal ](#comp)
@@ -109,7 +109,7 @@ Research Materials for Video Reflection Separation
   [[code]](https://github.com/foolwood/SiamMask.git)
   
 - *The 2019 DAVIS Challenge on VOS:Unsupervised Multi-Object Segmentation* \
-  [[paper]](https://arxiv.org/pdf/1905.00737.pdf) \
+  [[paper]](https://arxiv.org/pdf/1905.00737.pdf)
 
 - *Fast and Accurate Online Video Object Segmentation via Tracking Parts - CVPR2018* \
   [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf)
