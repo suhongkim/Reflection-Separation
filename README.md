@@ -91,9 +91,12 @@ Research Materials for Video Reflection Separation
   [[code]](https://github.com/foolwood/SiamMask.git)
   
 - *The 2019 DAVIS Challenge on VOS:Unsupervised Multi-Object Segmentation* \
-  [[paper]](https://arxiv.org/pdf/1905.00737.pdf)
-\
-- check more object segmentation paper list in [this link](https://github.com/du0915/Video-Object-Segmentation-Paper-List), and [this](https://github.com/zziz/pwc.git)
+  [[paper]](https://arxiv.org/pdf/1905.00737.pdf) \
+
+> check more object segmentation paper lists \
+[link - du0915](https://github.com/du0915/Video-Object-Segmentation-Paper-List) \
+[link - ArcherFMY](https://github.com/ArcherFMY/Paper_Reading_List/blob/master/Video-02-Video-Object-Segmentation.md)\
+[link - PWC](https://github.com/zziz/pwc.git)
 
 ### Deep Video Optical Flow Estimation 
 - *SelFlow: Self-Supervised Learning of Optical Flow - CVPR2019* \
