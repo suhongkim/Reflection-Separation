@@ -19,7 +19,8 @@ Research Materials for Video Reflection Separation
   [[paper]](https://arxiv.org/pdf/1812.01461.pdf)
 
 - **Video Reflection Removal Through Spatio-Temporal Optimization - ICCV2017** \
-  [[paper]](http://people.csail.mit.edu/changil/assets/video-reflection-removal-through-spatio-temporal-optimization-iccv-2017-nandoriya-et-al.pdf)
+  [[paper]](http://people.csail.mit.edu/changil/assets/video-reflection-removal-through-spatio-temporal-optimization-iccv-2017-nandoriya-et-al.pdf)\
+  This is our refence code
   
 [back to table](#table)
 
@@ -42,7 +43,8 @@ Research Materials for Video Reflection Separation
   
 - **Single Image reflection Removal with Percpetual Loss - CVPR2018** \
   [[paper]](https://arxiv.org/pdf/1806.05376.pdf)
-  [[code]](https://github.com/suhongkim/perceptual-reflection-removal.git)
+  [[code]](https://github.com/suhongkim/perceptual-reflection-removal.git)\
+  This work is chosen to compare with our work
 
 - *CRRN: Multi-Scale Guided Concurrent Reflection Removal Network - CVPR2018* \
   [[paper]](https://arxiv.org/pdf/1805.11802.pdf) 
@@ -180,12 +182,12 @@ Research Materials for Video Reflection Separation
 
 - **Efficient Sparse-to-Dense Optical Flow Estimationusinga Learned Basis and Layers - CVPR2015** \
   [[paer]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298607)
-  [[code-pcaflow]](https://github.com/jswulff/pcaflow.git)
+  [[code-pcaflow]](https://github.com/jswulff/pcaflow.git)\
   This work is estimating dense optical flow from sparse trajectories, which can be used to generate the separated optical flow for two layers. 
   
 - **Motion Trajectory Segmentation via Minimum Cost Multicuts - ICCV2015** \
   [[paper]](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b/motionSeg.pdf)
-  [[code]](https://lmb.informatik.uni-freiburg.de/resources/software.php)
+  [[code]](https://lmb.informatik.uni-freiburg.de/resources/software.php)\
   This code is used to upgrade the current code, which produces better feature point trackers. 
   
 [back to table](#table)
@@ -204,7 +206,7 @@ Research Materials for Video Reflection Separation
 <a name="pred"></a>
 - **Controllable Video Generation with Sparse Trajectories - CVPR2018**\
   [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)
-  [[code]](https://github.com/zekunhao1995/ControllableVideoGen.git)
+  [[code]](https://github.com/zekunhao1995/ControllableVideoGen.git)\
   This work is meaningful for us since it uses sparse trajectories obtained by user to produce next video frame. 
   
 ### Video Prediction 
