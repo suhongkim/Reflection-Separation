@@ -9,20 +9,21 @@ Research Materials for Video Reflection Separation
 4. [ Deep Video Object Segmentation and Tracking (VOST) ](#vost)
 5. [ Deep Video Optical Flow Estimation ](#opt)
 6. [ Object Segmentation with Point Trajectories ](#traj)
-7. [ Video Prediction ](#pred)
+7. [ Image Registration ](#reg)
+8. [ Video Prediction ](#pred)
 
-
+***
 <a name="video"></a>
 ### Video Reflection Removal 
 - *The Visual Centrifuge: Model-Free Layered Video Representations - CVPR2018* \
   [[paper]](https://arxiv.org/pdf/1812.01461.pdf)
 
-- *Video Reflection Removal Through Spatio-Temporal Optimization - ICCV2017* \
+- **Video Reflection Removal Through Spatio-Temporal Optimization - ICCV2017** \
   [[paper]](http://people.csail.mit.edu/changil/assets/video-reflection-removal-through-spatio-temporal-optimization-iccv-2017-nandoriya-et-al.pdf)
   
 [back to table](#table)
 
-
+***
 <a name="deep"></a>
 ### Deep Image Reflection Removal
 - *Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements - CVPR2019* \
@@ -39,7 +40,7 @@ Research Materials for Video Reflection Separation
 - *Face Image Reflection Removal - 2019* \
   [[paper]](https://arxiv.org/pdf/1903.00865v1.pdf)
   
-- *Single Image reflection Removal with Percpetual Loss - CVPR2018* \
+- **Single Image reflection Removal with Percpetual Loss - CVPR2018** \
   [[paper]](https://arxiv.org/pdf/1806.05376.pdf)
   [[code]](https://github.com/suhongkim/perceptual-reflection-removal.git)
 
@@ -67,9 +68,10 @@ Research Materials for Video Reflection Separation
 
 [back to table](#table)
 
+***
 <a name="comp"></a>
 ### Computational Reflection Removal
-- *Fast Single Image Reflection Suppression via Convex Optimization - CVPR2019* \
+- **Fast Single Image Reflection Suppression via Convex Optimization - CVPR2019** \
   [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Fast_Single_Image_Reflection_Suppression_via_Convex_Optimization_CVPR_2019_paper.pdf) 
   [[code]](https://github.com/yyhz76/reflectSuppress.git) 
   
@@ -80,7 +82,7 @@ Research Materials for Video Reflection Separation
 - *Benchmarking Single-Image Reflection Removal Algorithms - ICCV2017* \
   [[paper]](http://alumni.media.mit.edu/~shiboxin/files/Wan_ICCV17.pdf)
   
-- *A Computational Approach for Obstruction-Free Photography - SIGGRAPH2015* \
+- **A Computational Approach for Obstruction-Free Photography - SIGGRAPH2015** \
   [[paper]](https://people.csail.mit.edu/mrub/papers/ObstructionFreePhotography_SIGGRAPH2015.pdf)
 
 - *Reflection Removal for In-Vehicle Black Box Videos - CVPR2015* \
@@ -90,7 +92,9 @@ Research Materials for Video Reflection Separation
   [[paper]](http://openaccess.thecvf.com/content_iccv_2013/papers/Li_Exploiting_Reflection_Change_2013_ICCV_paper.pdf)
   
 [back to table](#table)
-  
+
+
+***
 <a name="vost"></a>  
 ### Deep Video Object Segmentation and Tracking (VOST) 
 - *Video Object Segmentation and Tracking: A Survey - CVPR2019* \
@@ -122,7 +126,7 @@ Research Materials for Video Reflection Separation
 
 [back to table](#table)
 
-
+***
 <a name="opt"></a>
 ### Deep Video Optical Flow Estimation
 - *SelFlow: Self-Supervised Learning of Optical Flow - CVPR2019* \
@@ -151,7 +155,7 @@ Research Materials for Video Reflection Separation
 
 [back to table](#table)
 
-
+***
 <a name="traj"></a>
 ### Object Segmentation with Point Trajectories
 - *Semi-Supervised Video Object Segmentation with Super-Trajectories - 2019* \
@@ -167,21 +171,42 @@ Research Materials for Video Reflection Separation
   [[paer]](https://arxiv.org/pdf/1903.03295v2.pdf)
   [[code]](https://github.com/RomeroBarata/skeleton_based_anomaly_detection.git)
 
-- *Video-Based Action Recognition Using Dimension Reduction ofDeep Covariance Trajectories - CVPR2019* \
+- *Video-Based Action Recognition Using Dimension Reduction of Deep Covariance Trajectories - CVPR2019* \
   [[paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CEFRL/Dai_Video-Based_Action_Recognition_Using_Dimension_Reduction_of_Deep_Covariance_Trajectories_CVPRW_2019_paper.pdf)
   
-- *Controllable Video Generation with Sparse Trajectories - CVPR2018* \
-  [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)
-  [[code]](https://github.com/zekunhao1995/ControllableVideoGen.git)
-  > this work is using sparse trajectories provided by user
+- **Robust Local Optical Flow: Dense Motion VectorField Interpolation - 2016** \
+  [[paer]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7906352)
+  [[code-RLOF]](https://github.com/tsenst/RLOFLib.git)
+
+- **Efficient Sparse-to-Dense Optical Flow Estimationusinga Learned Basis and Layers - CVPR2015** \
+  [[paer]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298607)
+  [[code-pcaflow]](https://github.com/jswulff/pcaflow.git)
+  This work is estimating dense optical flow from sparse trajectories, which can be used to generate the separated optical flow for two layers. 
   
-- *Motion Trajectory Segmentation via Minimum Cost Multicuts - ICCV2015* \
+- **Motion Trajectory Segmentation via Minimum Cost Multicuts - ICCV2015** \
   [[paper]](https://lmb.informatik.uni-freiburg.de/Publications/2015/KB15b/motionSeg.pdf)
   [[code]](https://lmb.informatik.uni-freiburg.de/resources/software.php)
+  This code is used to upgrade the current code, which produces better feature point trackers. 
   
 [back to table](#table)
   
+***
+<a name="reg"></a>
+### Image Registration   
+- *Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features - 2018* \
+  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8404075)
+  [[code]](https://github.com/yzhq97/cnn-registration.git)
+
+- *WarpNet: Weakly Supervised Matching for Single-view Reconstruction - CVPR2016* \
+  [[paper]](https://arxiv.org/pdf/1604.05592.pdf)
+  
+***  
 <a name="pred"></a>
+- **Controllable Video Generation with Sparse Trajectories - CVPR2018**\
+  [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hao_Controllable_Video_Generation_CVPR_2018_paper.pdf)
+  [[code]](https://github.com/zekunhao1995/ControllableVideoGen.git)
+  This work is meaningful for us since it uses sparse trajectories obtained by user to produce next video frame. 
+  
 ### Video Prediction 
 - *Deep Multi-Scale Video Prediction Beyond Mean Square Error -ICLR2016* \
   [[paper]](https://arxiv.org/pdf/1511.05440v6.pdf)
