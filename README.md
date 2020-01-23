@@ -28,7 +28,7 @@ Research Materials for Video Reflection Separation
 <a name="deep"></a>
 ### Deep Image Reflection Removal
 - *Semantic Guided Single Image Reflection Removal - CVPR2019* \
-  [[paper]] (https://arxiv.org/pdf/1907.11912.pdf)
+  [[paper]](https://arxiv.org/pdf/1907.11912.pdf)
   
 
 - *Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements - CVPR2019* \
